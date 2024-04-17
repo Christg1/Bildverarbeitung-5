@@ -1,0 +1,5 @@
+1. Das grüne Overlay image verschindet ab einer Helligkeit von 147 und -147. Entropie Wert ändert sich bei +60 und -60.
+
+2. Wenn man den Contrast Regeler auf 0 setzt, ist die Entropie ebenfalls auf 0, da sich alle Pixel angleichen. Ähnliches passiert wenn man den Contrast aufs maximium setzt.
+
+3. Verhält sich so sähnlich wie bei der Verschiebung der Helligkeit.
